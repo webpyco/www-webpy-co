@@ -1,5 +1,5 @@
 ---
-description: Estrategia en redes sociales
+description: Content Strategy
 ---
 
 # Social Media
