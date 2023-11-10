@@ -9,6 +9,7 @@
 * [Team](team.md)
 * [Presentation](administrative/presentation.md)
 * [Business Model](https://docs.google.com/drawings/d/1hFJEYUDUwyBczxuf75jYtvVCkF-BVmvEC\_v3Y6pW3Kk/edit)
+* [KPIs](https://docs.google.com/spreadsheets/d/1\_m2ec7vZsjQnmx6V4vM-cHc2GPMfDEmvDEn7OJkFyiY/edit#gid=1614164712)
 
 ## Tools
 
@@ -33,8 +34,7 @@
 
 ## Marketing
 
-* [Logo](marketing/logo.md)
-* [Campaigns](marketing/campaigns.md)
+* [Logo Campaigns](marketing/logo-campaigns.md)
 * [Convertion Funnel](marketing/convertion-funnel.md)
 * [Social Media](marketing/social-media/README.md)
   * [Meta](marketing/social-media/meta.md)
