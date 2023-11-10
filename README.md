@@ -26,6 +26,8 @@ En Webpy utilizamos las siguientes herramientas:
 
 \- Canva
 
+&#x20;\- Figma
+
 \- Landify
 
 ### Finance Tools
