@@ -1,9 +1,14 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Legal](legal.md)
-* [Team](team.md)
 * [Stack](stack/README.md)
+
+## Administrative
+
+* [Legal](administrative/legal.md)
+* [Team](administrative/team.md)
+* [Presentation](administrative/presentation.md)
+* [Business Model](https://docs.google.com/drawings/d/1hFJEYUDUwyBczxuf75jYtvVCkF-BVmvEC\_v3Y6pW3Kk/edit)
 
 ## Tools
 
@@ -32,6 +37,7 @@
 
 ## Community
 
+* [Convertion Funnel](community/convertion-funnel.md)
 * [Social Media](community/social-media/README.md)
   * [Meta](community/social-media/meta.md)
   * [Videos](community/social-media/videos.md)
