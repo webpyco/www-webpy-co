@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Legal](legal.md)
 * [Stack](stack/README.md)
 
 ## Tools
