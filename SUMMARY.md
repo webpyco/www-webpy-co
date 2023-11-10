@@ -7,6 +7,7 @@
 
 * [Bubble](stack/dev.md)
 * [TheirLabel Plugin](dev/theirlabel-plugin.md)
+* [OpenAI](dev/openai.md)
 * [Netlify](dev/netlify.md)
 * [Fleek](dev/fleek.md)
 * [GitHub](dev/github.md)
