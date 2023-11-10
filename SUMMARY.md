@@ -5,8 +5,8 @@
 
 ## Administrative
 
-* [Legal](administrative/legal.md)
-* [Team](administrative/team.md)
+* [Legal](legal.md)
+* [Team](team.md)
 * [Presentation](administrative/presentation.md)
 * [Business Model](https://docs.google.com/drawings/d/1hFJEYUDUwyBczxuf75jYtvVCkF-BVmvEC\_v3Y6pW3Kk/edit)
 
@@ -31,14 +31,12 @@
   * [Contact](tools/design/contact.md)
   * [Footer](tools/design/footer.md)
 
-## Brand Manual
+## Marketing
 
-* [Logo](brand-manual/logo.md)
-
-## Community
-
-* [Convertion Funnel](community/convertion-funnel.md)
-* [Social Media](community/social-media/README.md)
-  * [Meta](community/social-media/meta.md)
-  * [Videos](community/social-media/videos.md)
-  * [X](community/social-media/x.md)
+* [Logo](marketing/logo.md)
+* [Campaigns](marketing/campaigns.md)
+* [Convertion Funnel](marketing/convertion-funnel.md)
+* [Social Media](marketing/social-media/README.md)
+  * [Meta](marketing/social-media/meta.md)
+  * [Videos](marketing/social-media/videos.md)
+  * [X](marketing/social-media/x.md)
