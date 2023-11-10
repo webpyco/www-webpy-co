@@ -10,6 +10,8 @@ description: En Webpy utilizamos las siguientes herramientas
 
 \- TheirLabel Plugin: Bubble Plugin para crear la páginas &#x20;
 
+\- OpenAI API: Prompts de IA para la creación del contenido&#x20;
+
 \- Netlify: Host para Páginas credas por TheirLabel Plugin&#x20;
 
 \- Fleek: IPFS
