@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Legal](legal.md)
+* [Team](team.md)
 * [Stack](stack/README.md)
 
 ## Tools
