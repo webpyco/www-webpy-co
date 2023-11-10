@@ -25,6 +25,10 @@
   * [Contact](tools/design/contact.md)
   * [Footer](tools/design/footer.md)
 
+## Brand Manual
+
+* [Logo](brand-manual/logo.md)
+
 ## Community
 
 * [Social Media](community/social-media/README.md)
