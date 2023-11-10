@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Why, How, What](why-how-what.md)
 * [Stack](stack/README.md)
 
 ## Administrative
@@ -10,6 +9,7 @@
 * [Team](team.md)
 * [Presentation](administrative/presentation.md)
 * [Business Model](https://docs.google.com/drawings/d/1hFJEYUDUwyBczxuf75jYtvVCkF-BVmvEC\_v3Y6pW3Kk/edit)
+* [Why, How, What](administrative/why-how-what.md)
 * [KPIs](https://docs.google.com/spreadsheets/d/1\_m2ec7vZsjQnmx6V4vM-cHc2GPMfDEmvDEn7OJkFyiY/edit#gid=1614164712)
 
 ## Product
