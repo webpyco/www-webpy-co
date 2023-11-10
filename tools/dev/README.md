@@ -1,5 +1,5 @@
 ---
-description: Herramientas para el desarrollo del producto
+description: Product development stack
 ---
 
 # DEV
