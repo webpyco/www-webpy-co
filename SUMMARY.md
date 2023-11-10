@@ -13,6 +13,7 @@
   * [Netlify](tools/dev/netlify.md)
   * [Fleek](tools/dev/fleek.md)
   * [GitHub](tools/dev/github.md)
+  * [GitBook](tools/dev/gitbook.md)
   * [Cosmotown](tools/dev/cosmotown.md)
   * [Cloudflare](tools/dev/cloudflare.md)
 * [Design](tools/design/README.md)
