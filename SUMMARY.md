@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Why, How, What](why-how-what.md)
 * [Stack](stack/README.md)
 
 ## Administrative
