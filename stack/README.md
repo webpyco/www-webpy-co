@@ -50,4 +50,4 @@ description: En Webpy utilizamos las siguientes herramientas
 
 \- YouTube: Videos para Pequeños Negocios
 
-\- X: Decentralized and Blockchain&#x20;
+\- X: Decentralized and Blockchain Topics
