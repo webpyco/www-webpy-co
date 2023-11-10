@@ -26,3 +26,5 @@
 ## Social Media
 
 * [Meta](social-media/meta.md)
+* [Videos](social-media/videos.md)
+* [X](social-media/x.md)
