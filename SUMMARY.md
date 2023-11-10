@@ -40,3 +40,4 @@
   * [Meta](marketing/social-media/meta.md)
   * [Videos](marketing/social-media/videos.md)
   * [X](marketing/social-media/x.md)
+  * [Substack](marketing/social-media/substack.md)
