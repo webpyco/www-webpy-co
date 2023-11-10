@@ -6,44 +6,46 @@ description: En Webpy utilizamos las siguientes herramientas
 
 ### DEV Tools
 
-\- Bubble
+\- Bubble: Plataforma
 
-\- Fleek
+\- TheirLabel Plugin: Bubble Plugin para crear la páginas &#x20;
 
-\- GitHub
+\- Netlify: Host para Páginas credas por TheirLabel Plugin&#x20;
 
-\- GitBook
+\- Fleek: IPFS
 
-\- Netlify
+\- GitHub: Código Fuente de Páginas
 
-\- Cosmotown
+\- GitBook: Documentación
 
-\- Cloudflare
+\- Cosmotown: Registro de Dominios .com y .co
+
+\- Cloudflare: SSL y registro de dominios .co.co
 
 ### Design Tools
 
-\- Canva
+\- Canva: Diseño de Piezas
 
-&#x20;\- Figma
+&#x20;\- Figma: UI/UX
 
-\- Landify
+\- Landify: Componentes de las Páginas Web
 
 ### Finance Tools
 
-\- Google Sheets
+\- Google Sheets: KPIs
 
-\- MercadoPago
+\- MercadoPago: Pasarela de Pago
 
 ### Social Media Tools
 
-\- Facebook
+\- WhatsApp: Conversación con Clientes
 
-\- WhatsApp
+\- Facebook: Conversación de Presencia en Línea
 
-\- Instagram
+\- Instagram: Conversación de Presencia en Línea
 
-\- TikTok
+\- TikTok: Videos AI para tips de Presencia en Línea
 
-\- YouTube
+\- YouTube: Videos para Pequeños Negocios
 
-\- X
+\- X: Decentralized and Blockchain&#x20;
