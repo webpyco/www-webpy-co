@@ -1,5 +1,5 @@
 ---
-description: Presentación de la empresa
+description: Company Presentation
 ---
 
 # Presentation
