@@ -14,9 +14,9 @@ description: En Webpy utilizamos las siguientes herramientas
 
 \- Netlify: Host para Páginas credas por TheirLabel Plugin&#x20;
 
-\- Fleek: IPFS
+\- Fleek: IPFS para decentralizar las páginas web
 
-\- GitHub: Código Fuente de Páginas
+\- GitHub: Código fuente de las páginas web
 
 \- GitBook: Documentación
 
