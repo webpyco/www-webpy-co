@@ -14,6 +14,7 @@
 
 ## Product
 
+* [Architecture](product/architecture.md)
 * [DEV](tools/dev/README.md)
   * [Bubble](tools/dev/bubble.md)
   * [TheirLabel Plugin](tools/dev/theirlabel-plugin.md)
