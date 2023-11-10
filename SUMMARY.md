@@ -32,6 +32,11 @@
   * [CTA](tools/design/cta.md)
   * [Contact](tools/design/contact.md)
   * [Footer](tools/design/footer.md)
+* [How To](product/how-to/README.md)
+  * [Create a Website](product/how-to/create-a-website.md)
+  * [Setup DNS](product/how-to/setup-dns.md)
+  * [Migrate to Fleek](product/how-to/migrate-to-fleek.md)
+  * [Edit SEO index.html](product/how-to/edit-seo-index.html.md)
 
 ## Marketing
 
