@@ -9,7 +9,6 @@
 * [Team](team.md)
 * [Presentation](administrative/presentation.md)
 * [Business Model](https://docs.google.com/drawings/d/1hFJEYUDUwyBczxuf75jYtvVCkF-BVmvEC\_v3Y6pW3Kk/edit)
-* [Business Model](administrative/business-model.md)
 * [Why, How, What](administrative/why-how-what.md)
 * [KPIs](https://docs.google.com/spreadsheets/d/1\_m2ec7vZsjQnmx6V4vM-cHc2GPMfDEmvDEn7OJkFyiY/edit#gid=1614164712)
 
