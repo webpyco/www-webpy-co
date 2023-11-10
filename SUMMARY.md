@@ -13,24 +13,24 @@
 
 ## Product
 
-* [DEV](product/dev/README.md)
-  * [Bubble](product/dev/bubble.md)
-  * [TheirLabel Plugin](product/dev/theirlabel-plugin.md)
-  * [OpenAI](product/dev/openai.md)
-  * [Netlify](product/dev/netlify.md)
-  * [Fleek](product/dev/fleek.md)
-  * [GitHub](product/dev/github.md)
-  * [GitBook](product/dev/gitbook.md)
-  * [Cosmotown](product/dev/cosmotown.md)
-  * [Cloudflare](product/dev/cloudflare.md)
-* [Design](product/design/README.md)
-  * [Header](product/design/header.md)
-  * [Hero](product/design/hero.md)
-  * [Value](product/design/value.md)
-  * [Features](product/design/features.md)
-  * [CTA](product/design/cta.md)
-  * [Contact](product/design/contact.md)
-  * [Footer](product/design/footer.md)
+* [DEV](tools/dev/README.md)
+  * [Bubble](tools/dev/bubble.md)
+  * [TheirLabel Plugin](tools/dev/theirlabel-plugin.md)
+  * [OpenAI](tools/dev/openai.md)
+  * [Netlify](tools/dev/netlify.md)
+  * [Fleek](tools/dev/fleek.md)
+  * [GitHub](tools/dev/github.md)
+  * [GitBook](tools/dev/gitbook.md)
+  * [Cosmotown](tools/dev/cosmotown.md)
+  * [Cloudflare](tools/dev/cloudflare.md)
+* [Design](tools/design/README.md)
+  * [Header](tools/design/header.md)
+  * [Hero](tools/design/hero.md)
+  * [Value](tools/design/value.md)
+  * [Features](tools/design/features.md)
+  * [CTA](tools/design/cta.md)
+  * [Contact](tools/design/contact.md)
+  * [Footer](tools/design/footer.md)
 
 ## Marketing
 
@@ -44,4 +44,5 @@
 ## Sales
 
 * [Client's Journey](sales/clients-journey.md)
-* [Convertion Funnel](sales/convertion-funnel.md)
+* [Convertion Funnel](marketing/convertion-funnel.md)
+* [Sales Process](sales/sales-process.md)
