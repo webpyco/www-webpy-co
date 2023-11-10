@@ -26,7 +26,7 @@ description: En Webpy utilizamos las siguientes herramientas
 
 \- Canva: Diseño de Piezas
 
-&#x20;\- Figma: UI/UX
+\- Figma: UI/UX
 
 \- Landify: Componentes de las Páginas Web
 
