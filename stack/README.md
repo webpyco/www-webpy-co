@@ -1,54 +1,54 @@
 ---
-description: En Webpy utilizamos las siguientes herramientas
+description: We use the following tools
 ---
 
 # Stack
 
 ### DEV Tools
 
-\- Bubble: Plataforma
+\- Bubble: Plataform
 
-\- TheirLabel Plugin: Bubble Plugin para crear la páginas &#x20;
+\- TheirLabel Plugin: Bubble Plugin to create websites &#x20;
 
-\- OpenAI API: Prompts de IA para la creación del contenido&#x20;
+\- OpenAI API: AI prompts to create websites content &#x20;
 
-\- Netlify: Host para Páginas credas por TheirLabel Plugin&#x20;
+\- Netlify: Host for TheirLabel Plugin websites&#x20;
 
-\- Fleek: IPFS para decentralizar las páginas web
+\- Fleek: IPFS for decentralization of websites
 
-\- GitHub: Código fuente de las páginas web
+\- GitHub: Source Code and index.html files
 
-\- GitBook: Documentación
+\- GitBook: Documentation
 
-\- Cosmotown: Registro de Dominios .com y .co
+\- Cosmotown: Registration for .com and .co domains
 
-\- Cloudflare: SSL y registro de dominios .com.co
+\- Cloudflare: SSL and domain registration of .com.co domains
 
 ### Design Tools
 
-\- Canva: Diseño de Piezas
+\- Canva: Design
 
 \- Figma: UI/UX
 
-\- Landify: Componentes de las Páginas Web
+\- Landify: Webpy's components
 
 ### Finance Tools
 
 \- Google Sheets: KPIs
 
-\- MercadoPago: Pasarela de Pago
+\- MercadoPago: Payment
 
 ### Social Media Tools
 
-\- WhatsApp: Conversación con Clientes
+\- WhatsApp: Customers Chat&#x20;
 
-\- Facebook: Conversación de Presencia en Línea
+\- Facebook: Online Presence Conversation
 
-\- Instagram: Conversación de Presencia en Línea
+\- Instagram: Online Presence Conversation
 
-\- TikTok: Videos AI para tips de Presencia en Línea
+\- TikTok: AI videos for Online Presence Tips
 
-\- YouTube: Videos para Pequeños Negocios
+\- YouTube: Small Business Videos
 
 \- X: Decentralized and Blockchain Topics
 
