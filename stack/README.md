@@ -22,7 +22,7 @@ description: En Webpy utilizamos las siguientes herramientas
 
 \- Cosmotown: Registro de Dominios .com y .co
 
-\- Cloudflare: SSL y registro de dominios .co.co
+\- Cloudflare: SSL y registro de dominios .com.co
 
 ### Design Tools
 
