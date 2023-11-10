@@ -22,7 +22,10 @@
   * [CTA](tools/design/cta.md)
   * [Contact](tools/design/contact.md)
   * [Footer](tools/design/footer.md)
-* [Social Media](tools/social-media/README.md)
-  * [Meta](tools/social-media/meta.md)
-  * [Videos](tools/social-media/videos.md)
-  * [X](tools/social-media/x.md)
+
+## Community
+
+* [Social Media](community/social-media/README.md)
+  * [Meta](community/social-media/meta.md)
+  * [Videos](community/social-media/videos.md)
+  * [X](community/social-media/x.md)
