@@ -4,6 +4,10 @@
 SEO Ranking
 {% endembed %}
 
+{% embed url="https://sitechecker.pro/es/" %}
+SEO Tools
+{% endembed %}
+
 {% embed url="https://pagespeed.web.dev/" %}
 Page Speed
 {% endembed %}
