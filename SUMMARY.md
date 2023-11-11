@@ -38,6 +38,7 @@
   * [Setup DNS](product/how-to/setup-dns.md)
   * [Migrate to Fleek](product/how-to/migrate-to-fleek.md)
   * [Edit SEO index.html](product/how-to/edit-seo-index.html.md)
+* [SEO Tools](product/seo-tools.md)
 
 ## Marketing
 
