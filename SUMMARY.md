@@ -33,6 +33,7 @@
   * [CTA](product/components/cta.md)
   * [Contact](product/components/contact.md)
   * [Footer](product/components/footer.md)
+* [Landify](product/landify.md)
 * [How To](product/how-to/README.md)
   * [Create a Website](product/how-to/create-a-website.md)
   * [Setup DNS](product/how-to/setup-dns.md)
