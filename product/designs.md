@@ -1,8 +1,14 @@
 ---
-description: Landify UI – Full version
+description: Webpy sites designs
 ---
 
-# Landify
+# Designs
+
+{% embed url="https://www.figma.com/file/3HXNnBos0BKW9Nh2cQhFC3/webpys?mode=design&node-id=0-1&t=900EnQSkI2YB5JDN-0&type=design" %}
+Figma
+{% endembed %}
+
+## Landify UI - Full Version&#x20;
 
 [Download Here](https://app.lemonsqueezy.com/my-orders/86a12e63-82f6-40d4-bc49-a7ca78f8703b?signature=4a39887d9cb277ca60c683a5ddfd2a2d94d2d08872b963a2bef042d30e443832)
 
